@@ -1,0 +1,15 @@
+{
+  "servers": {
+    "my_python_mcp": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "F:\\demo\\mcp-server-demo",
+        "run",
+        "main.py"
+      ],
+      "env": {},
+      "type": "stdio"
+    }
+  }
+}
