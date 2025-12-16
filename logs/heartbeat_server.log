@@ -1,0 +1,285 @@
+2025-12-16 15:38:05,289 - HeartbeatServer - INFO - 心跳服务器启动在 localhost:8888
+2025-12-16 15:39:22,344 - HeartbeatServer - INFO - 新客户端连接: ('127.0.0.1', 59106)
+2025-12-16 15:39:23,432 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:24,518 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:25,605 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:26,683 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:27,765 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:28,852 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:29,935 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:31,017 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:32,104 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:33,193 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:34,280 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:35,368 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:36,451 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:37,533 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:38,613 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:39,690 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:40,777 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:41,860 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:42,947 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:44,029 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:45,112 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:46,191 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:47,270 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:48,352 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:49,430 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:50,507 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:51,589 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:52,673 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:53,760 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:54,844 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:55,931 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:57,021 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:58,101 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:39:59,185 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:00,269 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:01,349 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:02,435 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:03,519 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:04,607 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:05,692 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:06,780 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:07,873 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:08,954 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:10,036 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:11,122 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:12,209 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:13,305 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:14,390 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:15,476 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:16,560 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:17,643 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:18,735 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:19,819 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:20,902 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:21,987 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:22,428 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:23,077 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:24,167 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:25,241 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:26,321 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:27,402 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:28,488 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:29,576 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:30,662 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:31,749 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:32,835 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:33,914 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:35,000 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:36,088 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:37,170 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:38,250 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:39,335 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:40,417 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:41,503 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:42,590 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:43,673 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:44,758 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:45,840 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:46,924 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:48,006 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:49,088 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:50,166 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:51,247 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:52,332 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:53,417 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:54,502 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:55,587 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:56,672 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:57,755 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:58,844 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:40:59,929 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:01,017 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:02,098 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:03,180 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:04,269 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:05,355 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:06,438 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:07,521 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:08,604 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:09,688 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:10,773 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:11,844 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:12,928 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:14,011 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:15,095 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:16,189 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:17,271 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:18,355 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:19,442 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:20,521 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:21,603 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:22,471 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:22,684 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:23,771 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:24,856 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:25,945 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:27,026 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:28,114 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:29,197 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:30,278 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:31,362 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:32,445 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:33,530 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:34,604 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:35,689 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:36,771 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:37,857 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:38,939 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:40,023 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:41,116 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:42,201 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:43,288 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:44,373 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:45,457 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:46,543 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:47,622 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:48,704 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:49,791 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:50,876 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:51,961 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:53,044 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:54,135 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:55,221 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:56,299 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:57,384 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:58,468 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:41:59,552 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:00,639 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:01,720 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:02,806 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:03,889 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:04,975 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:06,060 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:07,145 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:08,233 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:09,316 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:10,400 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:11,485 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:12,570 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:13,659 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:14,743 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:15,827 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:16,909 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:17,991 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:19,076 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:20,154 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:21,241 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:22,321 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:22,540 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:23,403 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:24,487 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:25,574 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:26,660 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:27,745 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:28,826 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:29,907 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:30,988 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:32,071 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:33,153 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:34,233 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:35,320 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:36,405 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:37,492 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:38,575 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:39,654 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:40,741 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:41,827 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:42,909 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:43,990 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:45,067 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:46,155 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:47,243 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:48,326 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:49,408 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:50,500 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:51,590 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:52,677 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:53,759 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:54,846 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:55,948 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:57,026 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:58,113 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:42:59,198 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:00,279 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:01,365 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:02,443 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:03,525 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:04,609 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:05,693 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:06,776 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:07,860 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:08,937 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:10,022 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:11,109 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:12,193 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:13,280 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:14,363 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:15,446 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:16,533 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:17,619 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:18,708 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:19,793 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:20,875 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:21,964 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:22,618 - HeartbeatServer - ERROR - 心跳消息缺少必要字段: client_id
+2025-12-16 15:43:22,823 - HeartbeatServer - INFO - 客户端 ('127.0.0.1', 59106) 断开连接
+2025-12-16 15:43:22,823 - HeartbeatServer - INFO - 客户端 ('127.0.0.1', 59106) 连接关闭
+2025-12-16 15:52:34,580 - HeartbeatServer - INFO - 心跳服务器启动在 localhost:8888
+2025-12-16 15:59:33,495 - HeartbeatServer - INFO - 心跳服务器启动在 localhost:8888
+2025-12-16 15:59:36,522 - HeartbeatServer - INFO - 收到中断信号，正在停止服务器...
+2025-12-16 15:59:36,712 - HeartbeatServer - INFO - 心跳服务器已停止
+2025-12-16 18:07:56,710 - HeartbeatServer - INFO - 心跳服务器启动在 localhost:8888
+2025-12-16 18:08:08,503 - HeartbeatServer - INFO - 新客户端连接: ('127.0.0.1', 64492)
+2025-12-16 18:08:09,587 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:10,671 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:11,762 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:12,855 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:13,943 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:15,034 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:16,120 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:17,213 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:18,300 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:19,389 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:20,477 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:21,565 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:22,648 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:23,738 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:24,822 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:25,907 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:26,992 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:28,081 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:29,167 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:30,261 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:31,351 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:32,443 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:33,533 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:34,621 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:35,710 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:36,804 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:37,891 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:38,976 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:40,064 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:64492, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 64492)
+2025-12-16 18:08:40,927 - HeartbeatServer - INFO - 客户端 ('127.0.0.1', 64492) 断开连接
+2025-12-16 18:08:40,927 - HeartbeatServer - INFO - 客户端 127.0.0.1:64492 已移除
+2025-12-16 18:08:40,928 - HeartbeatServer - INFO - 客户端 ('127.0.0.1', 64492) 连接关闭
+2025-12-16 18:16:25,054 - HeartbeatServer - INFO - 收到中断信号，正在停止服务器...
+2025-12-16 18:16:25,155 - HeartbeatServer - INFO - 心跳服务器已停止
+2025-12-16 18:17:46,226 - HeartbeatServer - INFO - 心跳服务器启动在 localhost:8888
+2025-12-16 19:14:56,065 - HeartbeatServer - INFO - 心跳服务器启动在 localhost:8888
+2025-12-16 19:15:08,864 - HeartbeatServer - INFO - 新客户端连接: ('127.0.0.1', 49982)
+2025-12-16 19:15:09,952 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:49982, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 49982)
+2025-12-16 19:15:11,040 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:49982, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 49982)
+2025-12-16 19:15:12,126 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:49982, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 49982)
+2025-12-16 19:15:13,211 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:49982, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 49982)
+2025-12-16 19:15:14,294 - HeartbeatServer - INFO - 收到心跳 - 客户端: 127.0.0.1:49982, 代码: 0, 数据: {'content': 'ping', 'type': 'heartbeat'}, 消息: , 地址: ('127.0.0.1', 49982)
+2025-12-16 19:15:15,051 - HeartbeatServer - INFO - 客户端 ('127.0.0.1', 49982) 断开连接
+2025-12-16 19:15:15,051 - HeartbeatServer - INFO - 客户端 127.0.0.1:49982 已移除
+2025-12-16 19:15:15,051 - HeartbeatServer - INFO - 客户端 ('127.0.0.1', 49982) 连接关闭
+2025-12-16 19:15:20,967 - HeartbeatServer - INFO - 收到中断信号，正在停止服务器...
+2025-12-16 19:15:21,068 - HeartbeatServer - INFO - 心跳服务器已停止
+2025-12-16 19:15:24,472 - HeartbeatServer - INFO - 心跳服务器启动在 localhost:8888
+2025-12-16 19:15:26,484 - HeartbeatServer - INFO - 收到中断信号，正在停止服务器...
+2025-12-16 19:15:26,585 - HeartbeatServer - INFO - 心跳服务器已停止

@@ -1,0 +1,6 @@
+# MCP dependencies
+mcp[cli]>=1.23.1
+
+# Additional dependencies for heartbeat server
+asyncio-mqtt>=0.16.2
+python-socketio>=5.11.4
