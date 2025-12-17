@@ -16,8 +16,6 @@ class HeartbeatMessage:
     """心跳消息数据结构"""
     code: int
     data: str
-    message: str
-
 
 class HeartbeatServer:
     """心跳服务器"""
@@ -35,24 +33,22 @@ class HeartbeatServer:
         logger = logging.getLogger("HeartbeatServer")
         logger.setLevel(logging.INFO)
 
-        # 创建文件处理器
+        # 避免重复添加处理器
+        if logger.handlers:
+            return logger
+
+        # 只创建文件处理器，不输出到控制台
         file_handler = logging.FileHandler("logs/heartbeat_server.log", encoding="utf-8")
         file_handler.setLevel(logging.INFO)
-
-        # 创建控制台处理器
-        console_handler = logging.StreamHandler()
-        console_handler.setLevel(logging.INFO)
 
         # 创建格式器
         formatter = logging.Formatter(
             '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
         )
         file_handler.setFormatter(formatter)
-        console_handler.setFormatter(formatter)
 
-        # 添加处理器
+        # 只添加文件处理器
         logger.addHandler(file_handler)
-        logger.addHandler(console_handler)
 
         return logger
 
@@ -123,9 +119,8 @@ class HeartbeatServer:
 
                             # 发送确认响应
                             response = {
-                                "code": 200,
-                                "data": "success",
-                                "message": "socket接收成功"
+                                "code": 0,
+                                "data": "",
                             }
                             client_socket.send(json.dumps(response, ensure_ascii=False).encode('utf-8'))
 
@@ -164,7 +159,7 @@ class HeartbeatServer:
             message_dict = json.loads(data)
 
             # 验证必要字段
-            required_fields = ['code', 'data', 'message']
+            required_fields = ['code', 'data']
             for field in required_fields:
                 if field not in message_dict:
                     self.logger.error(f"心跳消息缺少必要字段: {field}")
@@ -172,8 +167,7 @@ class HeartbeatServer:
 
             return HeartbeatMessage(
                 code=message_dict['code'],
-                data=message_dict['data'],
-                message=message_dict['message']
+                data=message_dict['data']
             )
 
         except Exception as e:
@@ -190,7 +184,6 @@ class HeartbeatServer:
             "last_heartbeat": datetime.now().isoformat(),
             "code": heartbeat.code,
             "data": heartbeat.data,
-            "message": heartbeat.message,
             "client_address": client_address,
             "server_received_time": datetime.now().isoformat()
         }
@@ -199,7 +192,6 @@ class HeartbeatServer:
             f"收到心跳 - 客户端: {client_id}, "
             f"代码: {heartbeat.code}, "
             f"数据: {heartbeat.data}, "
-            f"消息: {heartbeat.message}, "
             f"地址: {client_address}"
         )
 

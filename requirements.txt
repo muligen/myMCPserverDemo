@@ -4,3 +4,7 @@ mcp[cli]>=1.23.1
 # Additional dependencies for heartbeat server
 asyncio-mqtt>=0.16.2
 python-socketio>=5.11.4
+
+# Flask HTTP server
+Flask>=3.0.0
+Werkzeug>=3.0.0
