@@ -8,3 +8,6 @@ python-socketio>=5.11.4
 # Flask HTTP server
 Flask>=3.0.0
 Werkzeug>=3.0.0
+
+# System monitoring
+psutil>=5.9.0

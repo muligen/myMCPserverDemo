@@ -176,24 +176,38 @@ class HeartbeatServer:
 
     def _process_heartbeat(self, heartbeat: HeartbeatMessage, client_address: tuple):
         """处理心跳消息"""
-        # 使用客户端地址作为唯一标识
         client_id = f"{client_address[0]}:{client_address[1]}"
 
-        # 更新客户端信息
-        self.clients[client_id] = {
+        # 解析data字段为JSON（如果还不是字典的话）
+        if heartbeat.data:
+            if isinstance(heartbeat.data, dict):
+                data_obj = heartbeat.data
+            elif isinstance(heartbeat.data, str):
+                data_obj = json.loads(heartbeat.data)
+            else:
+                data_obj = None
+        else:
+            data_obj = None
+
+        # 更新客户端信息（原地修改）
+        if client_id not in self.clients:
+            self.clients[client_id] = {}
+
+        # 原地更新现有字典
+        self.clients[client_id].update({
             "last_heartbeat": datetime.now().isoformat(),
             "code": heartbeat.code,
-            "data": heartbeat.data,
+            "data": data_obj,
             "client_address": client_address,
             "server_received_time": datetime.now().isoformat()
-        }
+        })
 
-        self.logger.info(
-            f"收到心跳 - 客户端: {client_id}, "
-            f"代码: {heartbeat.code}, "
-            f"数据: {heartbeat.data}, "
-            f"地址: {client_address}"
-        )
+        # 如果是系统信息类型，单独存储
+        if isinstance(data_obj, dict) and data_obj.get('type') == 'system_info':
+            self.clients[client_id]["system_info"] = data_obj
+            self.logger.info(f"收到系统信息 - 客户端: {client_id}, 数据: {data_obj}")
+        else:
+            self.logger.info(f"收到心跳 - 客户端: {client_id}, 代码: {heartbeat.code}, 数据: {data_obj}")
 
     def _remove_client(self, client_id: str):
         """移除客户端"""
